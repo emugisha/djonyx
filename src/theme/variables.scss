@@ -29,7 +29,8 @@ $colors: (
   danger:     #f53d3d,
   light:      #f4f4f4,
   dark:        #000,
-  warning:  #FFB838
+  warning:  #FFB838,
+  warning2:yellow
 );
 
 //dark #2a3744
@@ -38,7 +39,7 @@ $colors: (
 // --------------------------------------------------
 // iOS only Sass variables can go here
 
-
+$tabs-ios-tab-icon-color-active:$yellow3 !important;
 
 
 // App Material Design Variables
